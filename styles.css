@@ -1,0 +1,105 @@
+html, body {
+    height: 1850px;
+    margin: 0;
+    width: 100%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    font-weight: 350;
+}
+
+h1 {
+    font-weight: 550;
+    font-size: 40px;
+}
+
+h2 {
+    font-weight: 375;
+    font-size: 28px;
+}
+
+.main {
+    width: 100%;
+}
+
+.profile, .aboutme, .projects, .skills{
+    height: 450px;
+}
+
+.trademark, .socialmedia, .contact {
+    top: 20px;
+}
+
+.profile {
+    background-color: #f4f4f2;
+}
+
+.profile p {
+    line-height: 40%;
+}
+
+.facepic {
+    width: 140px;
+    height: 140px;
+}
+
+.aboutme {
+    background-color: #bbbfca;
+}
+
+.aboutme__title, .projects__title, .skills__title {
+    padding-top: 15px;
+}
+
+.aboutme__subtitle {
+    height: 60%;
+}
+
+.skills {
+    background-color: #f4f4f2;
+}
+
+.projects__title {
+    padding-bottom: 15px;
+}
+
+.projects {
+    background-color: #bbbfca;
+}
+
+.projectwrapper {
+    margin: 0 15px;
+}
+
+.projectpic {
+    width: 225px;
+    height: 170px;
+    border-radius: 50%;
+}
+
+.footer {
+    height: 150px;
+}
+
+.footerwrapper {
+    height: 70%;
+}
+
+.contact {
+    line-height: 50%;
+}
+
+.border1 {
+    border: 1px solid red;
+}
+
+.border2 {
+    border: 1px solid green;
+}
+
+.border3 {
+    border: 1px solid purple;
+}
+
+.uk-text-large {
+    font-size: 48px;
+}
